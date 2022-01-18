@@ -1,21 +1,19 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-## Webpack Boilerplate
+## Testing with JEST
 
-This is a Boilerplate for Webpack. Webpack is used to compile JavaScript modules. You can read more about [Webpack here](https://webpack.js.org/guides/getting-started/).
+In this exercise, I wrote some practical tests for JavaScript functions using the Jest library. I followed the AAA pattern to make the tests easier for other developers to read and understand. 
 
 ## Getting Started
 
 **Setup**
 
-git clone https://github.com/Mwapsam/Webpack-Boilerplate
+git clone https://github.com/Mwapsam/testing-practice.git
 
 ```
 npm install
-npm start
+npm test
 ```
-
-## Authors
 
 👤 **Author**
 
@@ -25,7 +23,7 @@ npm start
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Mwapsam/Webpack-Boilerplate/issues).
+Feel free to check the [issues page](https://github.com/Mwapsam/testing-practice/issues).
 
 ## Show your support
 
